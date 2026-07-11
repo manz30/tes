@@ -1,0 +1,122 @@
+{
+    "autosell": true,
+    "sellparts": 5,
+    "slippage": 10,
+    "limitbuy": 1,
+    "target_addresses": [
+        {"address": "0x2fD1887E5D99014Cb0B8884f06560ED20D65003d", "label": "PITCH"},
+        {"address": "0x6b6e4c1afd72024b1749a1322a524557f033ac04", "label": "KANGCT"},
+        {"address": "0x2cD78a21BF682a64d2A171F00ca22069Fd58112D", "label": "TEST"},
+
+
+        {"address": "0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373", "label": "CINA"},
+        {"address": "0xd0a5eff0d988997bbef7aa3f58f5c2d46513b8a6", "label": "CINA1"},
+        {"address": "0x4ffaf9c9c1455c621cb9852f539064614c0c171b", "label": "CINA2"},
+        
+        {"address": "0x00077705952c90b728c6d7dc450beb4429331111", "label": "BUNDLERA"},
+        {"address": "0x000ae1e2ba3624208300605d7919d6c4803c6111", "label": "BUNDLERA"},
+        {"address": "0x0006d09df7b0e8dce98463b95439475fcec29111", "label": "BUNDLERA"},
+        {"address": "0x45004af18692aac16840c807d8980ad215d58dad", "label": "BUNDLERA"},
+        {"address": "0x00034187c8d0d887821587573586f75624c5e111", "label": "BUNDLERA"},
+        {"address": "0x000461a73d3985eef4923655782aa5d0de75c111", "label": "BUNDLERA"},
+        {"address": "0x0d8d6c105629e472691f9a970a6f70899195b5e0", "label": "BUNDLERA"},
+        {"address": "0xce5b85c11047d74e63108e448ba7df5b188f3bad", "label": "BUNDLERA"},
+
+        {"address": "0xbce6a973491effd50ff98df42fe33e48f5680a4c", "label": "BUNDLERB"},
+        {"address": "0x6c6a19a6223fb6e65dacace747801bd3401a1ed3", "label": "BUNDLERB"},
+        {"address": "0x4eb05651dcaf8ff4e5c2a7c3001b0bcac796d311", "label": "BUNDLERB"},
+        {"address": "0xb897f9c22270e8c744de60cdf8979baadf52a8ef", "label": "BUNDLERB"},
+        {"address": "0x30962be6eea17d0f5023fb5f853773e2519490d5", "label": "BUNDLERB"},
+        {"address": "0x80958fa86f1ba2b66fd2fdae53ca48974a009adb", "label": "BUNDLERB"},
+
+        {"address": "0x630636b19cb22a9068afc483a7bc2af2e932eacd", "label": "BUNDLERC"},
+        {"address": "0x3f464c3d54e005ba3d5f01b5de4932036abe85d0", "label": "BUNDLERC"},
+        {"address": "0xce27b7ac878f5ef5d7ad4db35faf4eeae2fb491e", "label": "BUNDLERC"},
+        {"address": "0x2b4778983576d2e2665146aa9c2129a5cd234aea", "label": "BUNDLERC"},
+        {"address": "0xbdd5e23eee75017ebfae76b58be73d0185e7e5ff", "label": "BUNDLERC"},
+        {"address": "0x85e8ce616f2d75143f662431dbb6bab88f23f3e7", "label": "BUNDLERC"},
+        {"address": "0xf235483cf841e561d6440c41d96a162501dbd15e", "label": "BUNDLERC"},
+        {"address": "0x80468a68e8def128b87002f12b37c418b3853cb7", "label": "BUNDLERC"},
+        {"address": "0x9102f140a55af68b52517ecf28c8573fc823f5c8", "label": "BUNDLERC"},
+        {"address": "0xb39bf2d5a339cbd02d5bfe559d8198aaa25eff4b", "label": "BUNDLERC"},
+        {"address": "0x1c4f8bbd91169cf8ea5c80caad09faff58860541", "label": "BUNDLERC"},
+        {"address": "0x575dd0fb87d640f3b82674510a7f82eb6b688c48", "label": "BUNDLERC"},
+        {"address": "0x10fecce20a4f3b91eea02ee21496c20fad305ff4", "label": "BUNDLERC"},
+        {"address": "0xe4c74c72a5e3c0e08136e03b56410343551d686c", "label": "BUNDLERC"},
+        {"address": "0xbbe5b13450ed5281ad38158c25b1bb74e63fe075", "label": "BUNDLERC"},
+        {"address": "0x3a2f10d48f51258b476766e4e801c807b4819d6b", "label": "BUNDLERC"},
+
+        {"address": "0xcad24661663d7f6c025e9f69c78c2eebd499288d", "label": "BUNDLERNEW"},
+        {"address": "0xea572a21fc12da7929120ecbd964deef5e5a4f8f", "label": "BUNDLERNEW"},
+        {"address": "0x4e088eae43263f46b78925327416e7925e65b44b", "label": "BUNDLERNEW"},
+        {"address": "0x0bc6c2f7cc7e682a0c0a011ee27ffdb4e973e2f6", "label": "BUNDLERNEW"},
+
+        {"address": "0x0e66ac2682ab468dd1726bb9e057d6d5eaec7e78", "label": "BUNDLERTEST"},
+        {"address": "0xb89007a0908d4bcac0926425266b23d0dc3f0cda", "label": "BUNDLERTEST"},
+        {"address": "0x288e23b74c1cc363f4ef4d1161442f00d0dd8e6e", "label": "BUNDLERTEST"},
+        {"address": "0xebbeb723807f5172c4534aef1287baea2877cf46", "label": "BUNDLERTEST"},
+
+        {"address": "0x4410040d43057271ca0b913ee6bc01f391e7b847","label": "BUNDLERLAGI"},
+        {"address": "0x8c62ba90c6ae5ba53b43f08e562fca94476243c5","label": "BUNDLERLAGI"},
+        {"address": "0xb44fdf0e2e4e416433a7a1390dac992b92fcca04","label": "BUNDLERLAGI"},
+        {"address": "0xef346465a29abae55864df3228e79d8226e74000","label": "BUNDLERLAGI"},
+        {"address": "0x0532e7a782d09880855f52bc29d555aa5b15c6fb","label": "BUNDLERLAGI"},
+        {"address": "0x9cd581f05811f565b105e6ea09f4344d1c786af6","label": "BUNDLERLAGI"},
+        {"address": "0x930af2576a5f5859e32ea67a77aae55c61befd39","label": "BUNDLERLAGI"},
+
+        {"address": "0x1f5b9e6945b8b626b96b65fd381b823d47d594d2", "label": "BUNDLERKALI"},
+        {"address": "0x43cf0514a882938d46b5d2fa1c6a96dc7de6b7d3", "label": "BUNDLERKALI"},
+        {"address": "0xa74a9b218e21b6fdbab6c50a331b0651b356bf4f", "label": "BUNDLERKALI"},
+        {"address": "0xcc306a3cc14ca191db81281beefad8b1113f58fe", "label": "BUNDLERKALI"},
+
+        {"address": "0x5c04492dfa96bb718b4c27fcb6716ea1a609d396", "label": "BUNDLERLAGII"},
+        {"address": "0x52f67d557c219224591c567788a1301a76c02b19", "label": "BUNDLERLAGII"},
+        {"address": "0x994d923f22409697bccd6e01014fa83152cd6a8d", "label": "BUNDLERLAGII"},
+        {"address": "0x4dba2a94b5c19ed19981cbb4c6f1565b28405f76", "label": "BUNDLERLAGII"},
+        {"address": "0x097343f110d6c7d6f2c53325cc792846674db75c", "label": "BUNDLERLAGII"},
+        {"address": "0x76110a8c7d61a029e0f28709b7159caac9d9adfb", "label": "BUNDLERLAGII"},
+
+        {"address": "0x46b153a5a52fbafd4d264c86c21049c1d0865195", "label": "BUNDLERDONG"},
+        {"address": "0x745ccb1ea2f45da615209b53f33ebfe5a6c5c903", "label": "BUNDLERDONG"},
+        {"address": "0x2e209a99c4529106fec78fbeadce0c4991d8955a", "label": "BUNDLERDONG"},
+        {"address": "0xee50e7766f71c524da5f93b90396cbd96c49055b", "label": "BUNDLERDONG"},
+        {"address": "0xe3a4527faf35f166b9856d2c41ff9eb7d4bf68b6", "label": "BUNDLERDONG"},
+        {"address": "0x950f87406b0d8511a83c92b6ea5a850b7b9ba0b5", "label": "BUNDLERDONG"},
+        {"address": "0x6704043f2c37e112c65a06c1794e52c31d8dc6a8", "label": "BUNDLERDONG"},
+        
+        {"address": "0x123b9b8aaee4f5ae4bd993e35093eefcc7d5eefc", "label": "BUNDLERCINA"},
+        {"address": "0x7a2363a401b2340c7941dd2eeff0196a5078d2e6", "label": "BUNDLERCINA"},
+        {"address": "0x4454873edf8227cb3219573eb8ac314ed5fe062b", "label": "BUNDLERCINA"},
+        {"address": "0xf9bdcbf9be898a3e7b4e456067c77a2b9730e41c", "label": "BUNDLERCINA"},
+
+        {"address": "0xc57a1bf4bf318e429c48a62308afc4e0b98cffa5", "label": "BUNDLERRRR"},
+        {"address": "0x3e297e979021929b70714961ef9e2d0b5e4f3711", "label": "BUNDLERRRR"},
+        {"address": "0x05f6c403bbd11b94c37dbaede686b04eca28c9f8", "label": "BUNDLERRRR"},
+        {"address": "0x97948fed621cbe8e9ccf2291dff468f0743f3d3c", "label": "BUNDLERRRR"},
+        {"address": "0xa33b2c38a5829d6d6567b5c5c1e1d4edd0ee1ca5", "label": "BUNDLERRRR"},
+
+        {"address": "0x9d34151abe8d1594e74f463d350840119ab0689b","label": "siapalagi"},
+        {"address": "0x82fc58011d50bfda0dd10bbecab41803a7758939","label": "falcs"},
+        {"address": "0x82e159d63e585067e9fa3a4bba7d992fbc667751","label": "rott"},
+        {"address": "0xa64c6369c0d4c61aeee1f8997bcfb4022f2c614b","label": "A"},
+        {"address": "0xca1a2fb7f3179d887504966b25d1606978adcd42","label": "A2"},
+        {"address": "0x38e47fece3ea323e864c65410f6458c820eaa897","label": "cowboy"},
+        {"address": "0x304b2744b9e774fb2eb90ffc82d258070512430e","label": "cowboy2"},
+        {"address": "0xf703fd64093b50797abdc9e450632240fa2ba5d4","label": "nguyen"},
+        {"address": "0x9c8ff2cb10eb8306c98765ae3f9b2e8a4c6233ee","label": "darict"},
+        {"address": "0x5638484ba2d2F1D1D35020572B0Aa439a9869192","label": "stayaway"},
+        {"address": "0x3475831749ea6c9992e638d01427453b9cc83a12","label": "cupsey"},
+        {"address": "0x3a9732edd0624b39d006c89a0e327020dc06eb99", "label": "YODA"},
+        {"address": "0x371903abb32f5f69b536b77495e92adedfea25da", "label": "YODA2"}
+
+    ],
+    "dummy" : [
+
+    ],
+    "wls_label": [
+        "PITCH"
+    ],
+    "except_label":[
+        "TEST"
+    ]
+}
